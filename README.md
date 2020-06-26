@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The project allows users to view 5 days weather forecast for the selected city. User get weather data for any city selected by entering city id. They also have option to convert temparature to either celsius or frahenheight.
 ## Available Scripts
 
 In the project directory, you can run:
