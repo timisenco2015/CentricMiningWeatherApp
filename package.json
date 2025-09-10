@@ -16,7 +16,7 @@
     "react-elastic-carousel": "^0.6.4",
     "react-moment": "^0.9.7",
     "react-responsive-carousel": "^3.2.8",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "recharts": "^1.8.5",
     "styled-components": "^5.1.1"
   },
